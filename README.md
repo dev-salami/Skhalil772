@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skhalil772
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Frontend
+- 💞️ I’m looking to collaborate on Frontend projects
 - 📫 How to reach me salamikhalil02@gmail.com
 
 <!---
